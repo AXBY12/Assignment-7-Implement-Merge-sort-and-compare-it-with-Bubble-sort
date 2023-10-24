@@ -3,8 +3,8 @@ import java.util.ArrayList;
 public class SortingComparison {
     public static void main(String[] args) {
         ArrayList<Integer> listToSort = new ArrayList<>();
-        listToSort.add(5);
-        listToSort.add(2);
+        listToSort.add(4);
+        listToSort.add(7);
         listToSort.add(9);
         listToSort.add(3);
         listToSort.add(6);
